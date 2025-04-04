@@ -20,7 +20,7 @@ import javafx.scene.layout.HBox;
 import javafx.scene.layout.VBox;
 import javafx.stage.Stage;
 
-public class PAssign07 extends KeyPad {
+public class PAssign07 extends KeyPadPane {
     @Override
     public void start(Stage primaryStage) {
         // Load and display ATM image
